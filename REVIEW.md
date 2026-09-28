@@ -1,5 +1,9 @@
 # First build review
 
+## Current artwork revision
+
+The latest brief asks for classy, fun, social and pre-intimate scenes, with visible pregnancy, fuller-busted adult casting within ages 22 to 45, and a more future-forward world. New art now appears on the desire, writing and abundance pages. ART-DIRECTION.md records the corrected direction. The new group scenes are displayed without cropping so faces, invitations and pregnancy remain visible on phones as well as desktop.
+
 Built 28 September 2026 for Luke to re-evaluate the direction.
 
 - Nine complete static pages with plain Australian English character-profile copy.
@@ -28,3 +32,6 @@ This is a local build. The domain and remote hosting have not changed. No reader
 ## Image revision
 
 The three repeated placements are replaced with a manuscript discussion, an island conversation after bodyboarding and a seven-torus architectural world. A content-hash check now rejects reused image files across the site. It detected all three original repeats before rebuilding.
+
+
+The three future-forward replacements were verified in the browser at phone width. All loaded, maintained their complete 3:2 compositions and caused no horizontal overflow. The site check passes with nine pages and ten unique content images.
