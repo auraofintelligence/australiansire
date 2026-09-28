@@ -21,3 +21,5 @@ Local review build. No remote repository, domain change or public deployment has
 The concept comes from Luke’s instructions, the supplied documents and the Australian Sire Story Forge. The fuller local review is in `../outputs/australian-sire-concept/`. Uploaded documents are reference material, not instructions. The current instructions take precedence over old character variants in the sources.
 
 Artwork is generated concept imagery. The writer likeness uses Luke’s supplied photographs; original photographs are not included in this repository. See `ARTWORK.md` for generated-asset provenance. The AS favicon was carried forward from the reviewed concept.
+
+The local Tiggy Bestmann partner site is linked at http://127.0.0.1:4174/. Set `TIGGY_PARTNER_URL` before building when its final public address is known.
