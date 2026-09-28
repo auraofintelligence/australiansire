@@ -2,6 +2,8 @@
 
 This site gives a personal hope and wish a fictional life. Luke’s stated preferences and the narratives in his Story Forge guide the casting and scene choices.
 
+Sire is not the settling-down kind. Continuing travel is central. Global Group Marriages is a main series exploration, with relationships across people and places. Shared-home imagery depicts a visit or a part of that wider life; do not imply his story ends in permanent settlement. Show arrivals, departures, shared journeys and reunions as well as time spent together.
+
 ## Characters and atmosphere
 
 - Female romantic characters are adults aged 22 to 45.

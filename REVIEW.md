@@ -1,5 +1,13 @@
 # First build review
 
+## Global Group Marriages revision, 29 September 2026
+
+Reviewed all 17 source-site pages and verified they match the live website. Added a full Global Group Marriages chapter and integrated the theme into the home, writing, worlds, journey and abundance pages. Sire's continuing travel is explicit in the opening introduction. A new, unique arrivals scene gives the chapter its own full-width artwork. The site now has ten pages and eleven distinct content images.
+
+The complete page-by-page source interpretation is in `../outputs/australian-sire-concept/GLOBAL-GROUP-MARRIAGES-REVIEW.md`. Earlier counts below record prior review rounds.
+
+The subsequent pass carries the intention through all ten pages, including desire, encounters and the writer profile. The fictional oracle includes a group-marriage conversation initiated by a reader and a reunion at a festival. All ten pages pass local link, anchor, image, heading and chapter-control checks, with eleven unique content images. JavaScript syntax passes. All ten pages were checked at the browser's 388-pixel phone width with no horizontal overflow.
+
 ## Current artwork revision
 
 The latest brief asks for classy, fun, social and pre-intimate scenes, with visible pregnancy, fuller-busted adult casting within ages 22 to 45, and a more future-forward world. New art now appears on the desire, writing and abundance pages. ART-DIRECTION.md records the corrected direction. The new group scenes are displayed without cropping so faces, invitations and pregnancy remain visible on phones as well as desktop.

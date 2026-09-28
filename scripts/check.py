@@ -37,6 +37,6 @@ for name,p in pages.items():
         path=unquote(u.path) or name
         if not (ROOT/path).is_file():errors.append(f'{name}: missing {path}')
         if u.fragment and path in pages and u.fragment not in pages[path].ids:errors.append(f'{name}: missing anchor {href}')
-assert len(pages)==9, f'Expected nine pages, found {len(pages)}'
+assert len(pages)==10, f'Expected ten pages, found {len(pages)}'
 assert not errors, '\n'.join(errors)
 print(f'PASS: {len(pages)} pages; {len(seen_artwork)} unique artwork placements; all local links, anchors, images, headings and chapter controls present.')

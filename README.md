@@ -2,7 +2,7 @@
 
 A local first version of the character website intended for australiansire.xyz.
 
-Nine connected pages, full-width generated artwork, an opportunity-led travel example, a site map, previous/next navigation and a back-to-top control.
+Ten connected pages, full-width generated artwork, an opportunity-led travel example, a site map, previous/next navigation and a back-to-top control.
 
 ## Preview
 
@@ -10,7 +10,7 @@ Open `index.html` in a browser, or run `python -m http.server 4173 --bind 127.0.
 
 ## Edit
 
-Page copy is in `scripts/build.py`. Run `python scripts/build.py` to rebuild the nine HTML pages. Appearance is in `assets/site.css`; the menu and oracle example use `assets/site.js`. No package installation is required.
+Page copy is in `scripts/build.py`. Run `python scripts/build.py` to rebuild the ten HTML pages. Appearance is in `assets/site.css`; the menu and oracle example use `assets/site.js`. No package installation is required.
 
 ## Status
 

@@ -3,3 +3,5 @@
 :root .hero img[src$="manuscript-studio.webp"]{object-position:center 10%}
 .feature img[src$="island-conversation.webp"]{height:auto;min-height:0;max-height:none;align-self:center;object-fit:contain}
 .hero img[src$="theatre-reception.webp"],.hero img[src$="reading-room-invitation.webp"],.hero img[src$="shared-table-evening.webp"]{height:auto;max-height:none;object-fit:contain}
+
+.hero img[src$="arrivals-reunion.webp"]{height:auto;max-height:none;object-fit:contain}
