@@ -1,5 +1,14 @@
 # Artwork
 
+## Unique artwork revision
+
+Luke requested no repeated scene images and a female character age range of 22 to 45. Each of the ten content-image placements must use a distinct asset. The favicon remains shared site branding.
+
+New scene choices use these Story Forge taste ingredients: bodyboarding and island waves; cheeky humour; artistic and creative women; luxurious spaces; philosophy, art and science; intelligent architecture. Women initiate the depicted personal conversations. Sire retains Luke's mature appearance and current long hair.
+
+The manuscript artist is cast at 34; the island bodyboarder at 24 and her companion at 40. The first two generation drafts preceded the age clarification and are superseded by the age-adjusted images. Their source files remain outside the repository.
+
+
 Generated 28 September 2026 with the built-in image-generation tool. Six new scenes; source PNGs retained locally outside this repository. WebP copies are optimised for the site. Source ingredients from the Story Forge; staging is newly imagined concept art, not a published story excerpt.
 
 ## festival

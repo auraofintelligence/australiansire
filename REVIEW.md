@@ -22,4 +22,9 @@ Screenshots are saved outside the repository in `../outputs/australian-sire-buil
 
 ## Review boundaries
 
-This is a local build. The domain and remote hosting have not changed. No reader contact route, published books or live invitation feed has been fabricated. The writer and site map currently reuse existing scene artwork; they can receive distinct images after the direction is reviewed.
+This is a local build. The domain and remote hosting have not changed. No reader contact route, published books or live invitation feed has been fabricated. Every content image now has its own placement. Three new scenes replace the repeated writing, site-map and home-feature images; see ARTWORK.md for the scene and age brief.
+
+
+## Image revision
+
+The three repeated placements are replaced with a manuscript discussion, an island conversation after bodyboarding and a seven-torus architectural world. A content-hash check now rejects reused image files across the site. It detected all three original repeats before rebuilding.
