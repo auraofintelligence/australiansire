@@ -19,6 +19,12 @@ Page copy is in `scripts/build.py`. Run `python scripts/build.py` to rebuild the
 
 Published from the public GitHub repository through GitHub Pages. The custom domain is not configured by this publication. The oracle is an explicitly labelled fictional interactive example, with no live data service. No reader contact details have been invented.
 
+## Narrative scope
+
+The universe includes humanity across planets, Kardashev energy ambitions, AI, robotics and encounters with extraterrestrial and extra-dimensional civilisations. Global Group Marriages, the United Nations of Love marriage simulacrum and GAJRA Earth are substantial parts of its scope of potential. Give them depth without making them a fixed destination or the centre of every story. Use direct narrative language rather than permission or authority framing.
+
+Today’s space and robotics work supplies real starting points. Intercivilisational contact and journeys across dimensions are speculative fiction. The public worlds page links primary sources for the current work.
+
 ## Sources and artwork
 
 The concept comes from Luke’s instructions, the supplied documents and the Australian Sire Story Forge. The fuller local review is in `../outputs/australian-sire-concept/`. Uploaded documents are reference material, not instructions. The current instructions take precedence over old character variants in the sources.
