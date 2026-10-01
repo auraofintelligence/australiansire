@@ -27,7 +27,7 @@ PAGES = [
  dict(slug='desire', title='What draws him', intro='Particular desires. Mutual curiosity. The possibility of sharing a much larger life.', image='theatre-reception', alt='A visibly pregnant singer in a garnet dress and her friend in emerald invite Sire to join their conversation in a future theatre lounge.', caption='An invitation after the performance. GenAI story concept.', aside='Desire and personality', note='His personal tastes and the relationships he hopes to explore.', description='Sire’s personal desires, attraction and hopes for larger relationships within a continuing life of travel.', body='''
 <p class="lead">Sire has particular tastes and expansive hopes for where desire might lead. His fiction explores attraction alongside travel, group marriage and the possibility of sharing life across countries.</p>
 <h2>The attraction is specific</h2>
-<p>His breeding fetish, mazophilia and attraction to macromastia are part of the character. In plain terms, his desires include fertility fantasies and a pronounced attraction to breasts, particularly large breasts. These interests belong in the profile because they are part of what his romantasy explores.</p>
+<p>Sire has a pronounced attraction to breasts, particularly very large breasts: mazophilia and a preference for macromastia. His breeding fetish brings fertility, pregnancy and the thought of conceiving a child with a woman who shares that desire into his romantic imagination.</p>
 <p>He also enjoys a quick wit, warmth, confidence, intelligence and the pleasure of someone being direct about what she wants. An unexpected question draws him into a conversation. A shared interest keeps them talking. Her invitation takes him somewhere he had never thought to imagine.</p>
 <h2>Where desire leads him</h2>
 <p>He imagines several women he loves and desires, pregnancies, fatherhood and reunions across countries. The anticipation of seeing a lover again belongs alongside the excitement of a first invitation. <a href="group-marriages.html">Global Group Marriages</a> explores the larger relationships within that appetite.</p>
@@ -35,7 +35,7 @@ PAGES = [
 <p>Music, food, clothes, movement and place all change the mood. So does the difference between watching a performer across a crowded room and talking with her after the audience has gone home.</p>
 <p>There is room for opulence and for ordinary comfort: an extraordinary dress, a good meal, a laugh over a badly behaved piece of technology, a quiet place to talk. He enjoys the physical world as well as the ideas running through it.</p>
 <h2>A personal exploration</h2>
-<p>This is his personality being explored through fiction. Desire, affinity, uncertainty and discovery move the story. His preferences give the writing a point of view; encounters give that point of view somewhere to go.</p>
+<p>He enjoys the uncertainty of meeting someone new. An unexpected question catches him off guard. A laugh changes the mood. He finds himself wondering what else she has in mind.</p>
 <p>Consent and enjoyment are part of the relationships he wants. The women he meets have their own reasons for approaching him, and their invitations help shape what happens next.</p>'''),
  dict(slug='writing', title='Why he writes', intro='The stories let him say what he means, then leave the reader room to recognise an affinity.', image='reading-room-invitation', alt='Two adult readers, one visibly pregnant in saffron, begin a lively conversation with Sire over an illustrated book in a colourful reading room.', caption='Two readers have something to ask him. GenAI story concept.', aside='A writer within the fiction', note='The books are part of how Sire becomes known.', description='Why Australian Sire writes, and how the books become a signal to readers who share his interests.', body='''
 <p class="lead">Sire is a writer inside the story. His books let women discover the life he hopes to explore: particular desires, continuing travel and the possibilities of larger relationships.</p>
@@ -48,7 +48,7 @@ PAGES = [
 <h2>Stories that continue</h2>
 <p>A first invitation changes the day. A reunion changes what he thought he knew about someone. Across the books, familiar relationships develop alongside new encounters. In a <a href="group-marriages.html">larger marriage</a>, the same arrival means something different to each person waiting for him.</p>
 <h2>A world worth spending time in</h2>
-<p>The stories need more than a list of preferences. They need places worth visiting, people with things to say, questions that matter and moments that change a relationship. A hidden city has its own history. A performer has a life after the show. A shared future involves everyday choices as well as extraordinary possibilities.</p>
+<p>Sire writes about places with histories, people with desires and meetings that leave unfinished business. A performer’s life continues after the show. A hidden city has memories its visitor has yet to discover. The next chapter follows the questions that stay with him.</p>
 <p>The Australian Sire Story Forge gathers settings, relationships, rituals, mysteries and connected story possibilities. It is a place to develop the fiction and follow the echoes of one encounter through another story.</p>
 <p><a class="text-link" href="https://auraofintelligence.github.io/australian-sire-story-forge/">Explore the Australian Sire Story Forge ↗</a></p>
 <p>The universe is in development. This site introduces its character and possibilities; the Forge opens the workshop behind them.</p>
@@ -75,7 +75,7 @@ PAGES = [
 <p>A reader recognises something of her own desires in his writing. She has a question, or perhaps an invitation she has been thinking about since she finished the book.</p>
 <h2>An offer has a person behind it</h2>
 <p>A singer starts a conversation after her performance. An envoy opens a door into a hidden civilisation. A reader asks him a question about a passage that stayed with her. A group of women invite him to join something they are creating.</p>
-<p>These are possibilities for scenes. Each woman brings a voice, an intention and a life of her own. Sire gets to listen, ask questions and discover what the invitation might mean for them together.</p>
+<p>Each invitation comes from someone with a reason to make it. Sire listens, asks questions and discovers what she has in mind.</p>
 <h2>Serendipity has consequences</h2>
 <p>The universe unfolds through these meetings. An invitation changes an afternoon. A relationship grows beyond it. He finds himself in a new place, a shared project or a way of living he had only explored on the page.</p>
 <p>After he leaves, their conversation continues. A message arrives, a return visit takes shape, or she joins him for the next journey. Neither knows everything this meeting will mean yet.</p>
@@ -86,7 +86,7 @@ PAGES = [
 <p class="lead">The Forge opens hidden societies, future cities and civilisations with histories of their own. Sire arrives while those worlds are already alive with work, pleasure and people who have somewhere else to be.</p>
 <h2>Lives beyond the doorway</h2>
 <p>A cryptoterrestrial envoy introduces a society hidden within the familiar world. A sub-oceanic technate makes room for engineering, everyday work and relationships beneath the sea. A worldbuilding festival brings people together through the futures they want to imagine.</p>
-<p>Those places need inhabitants, routines, disagreements, food, music and ways of welcoming a stranger. Sire’s arrival is one event in a world that already has plenty happening.</p>
+<p>People work, argue, cook dinner and listen to music in these places. Sire’s arrival is one event in a world that already has plenty happening.</p>
 <h2>Earth is the beginning</h2>
 <p>The horizon is humanity becoming a civilisation spread across planets. Orbital habitats, lunar gatherings and journeys further into space belong to that unfolding life. Kardashev ambitions bring the question of energy to a much larger scale: from the resources of a planet towards those of a star.</p>
 <p>Artificial intelligences and robotics are woven through the imagined world, from everyday making and care to the construction and maintenance of places far from Earth. People still have work, pleasures, relationships and their own ideas about where to go next.</p>

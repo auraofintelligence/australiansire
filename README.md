@@ -25,6 +25,8 @@ The universe includes humanity across planets, Kardashev energy ambitions, AI, r
 
 The group marriage chapter contains the relationship framework and United Nations of Love explanation. GAJRA Earth’s planetary context belongs on the worlds page. Other chapters carry only the part relevant to their subject, with a short onward link where useful.
 
+Public prose introduces the character and universe to new readers. Keep editorial reminders, inclusion rationales and instructions about what a scene or story needs in working notes. Author context, proposal status and artwork provenance remain useful reader information.
+
 Today’s space and robotics work supplies real starting points. Intercivilisational contact and journeys across dimensions are speculative fiction. The public worlds page links primary sources for the current work.
 
 ## Sources and artwork
