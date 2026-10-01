@@ -23,6 +23,8 @@ Published from the public GitHub repository through GitHub Pages. The custom dom
 
 The universe includes humanity across planets, Kardashev energy ambitions, AI, robotics and encounters with extraterrestrial and extra-dimensional civilisations. Global Group Marriages, the United Nations of Love marriage simulacrum and GAJRA Earth are substantial parts of its scope of potential. Give them depth without making them a fixed destination or the centre of every story. Use direct narrative language rather than permission or authority framing.
 
+The group marriage chapter contains the relationship framework and United Nations of Love explanation. GAJRA Earth’s planetary context belongs on the worlds page. Other chapters carry only the part relevant to their subject, with a short onward link where useful.
+
 Today’s space and robotics work supplies real starting points. Intercivilisational contact and journeys across dimensions are speculative fiction. The public worlds page links primary sources for the current work.
 
 ## Sources and artwork
