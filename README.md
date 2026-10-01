@@ -21,6 +21,8 @@ Published from the public GitHub repository through GitHub Pages. The custom dom
 
 ## Narrative scope
 
+Luke's personal account on 1 October 2026 distinguishes Tiggy Bestmann, Australian Sire and Luke Nathan Hayes / Luke Catalyst. Tiggy carries playful openness to adult women of many forms and personalities. Sire is older, more refined and selective, exploring fertility, deep biases and specific fetishes. Luke is the balanced middle ground. The writer page holds the fuller comparison; Tiggy's fool page tells the childhood dog, street and game origin. These are creative personalities, not a compulsory progression or clinical categories. Use the current direct account over older source variants or fixed preferences previously assigned to Tiggy.
+
 The universe includes humanity across planets, Kardashev energy ambitions, AI, robotics and encounters with extraterrestrial and extra-dimensional civilisations. Global Group Marriages, the United Nations of Love marriage simulacrum and GAJRA Earth are substantial parts of its scope of potential. Give them depth without making them a fixed destination or the centre of every story. Use direct narrative language rather than permission or authority framing.
 
 The group marriage chapter contains the relationship framework and United Nations of Love explanation. GAJRA Earth’s planetary context belongs on the worlds page. Other chapters carry only the part relevant to their subject, with a short onward link where useful.
