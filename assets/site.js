@@ -5,8 +5,8 @@ const choices=[...document.querySelectorAll('[data-opportunity]')];
 const result=document.querySelector('#oracle-result');
 function updateOracle(){
   const selected=choices.filter(input=>input.checked).map(input=>input.value);
-  let title='Leave some room in the journey.';
-  let copy='With no new invitation in view, Sire can stay a little longer, finish a chapter and explore where he already is. The next country can wait for a worthwhile reason to move.';
+  let title='A little longer here.';
+  let copy='With no new invitation in view, Sire stays a little longer, finishes a chapter and explores where he already is. He has no reason to hurry towards the next border.';
   if(selected.length===1&&selected[0]==='reading'){title='A reading opens a door.';copy='A woman who has read his work invites him to a gathering in a harbour city. Several readers want to talk about his exploration of group marriage and a life across countries. He could share a chapter, hear what they have in mind and discover the city through their invitation.';}
   if(selected.length===1&&selected[0]==='craft'){title='Stay long enough to learn something.';copy='A mountain workshop offers a place to learn a local craft. A longer stay could make room for useful work, patient learning and new friendships. He weighs that against the writing and commitments already in his life.';}
   if(selected.length===1&&selected[0]==='music'){title='Let music change the direction.';copy='An arts festival brings musicians, makers and shared meals together. Someone already in his life plans to attend and suggests meeting there. He could contribute a story session, enjoy the reunion and explore where their journeys might overlap next.';}
