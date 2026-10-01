@@ -1,6 +1,9 @@
 # Australian Sire
 
-A local first version of the character website intended for australiansire.xyz.
+The Australian Sire character website, intended for australiansire.xyz.
+
+Public site: https://auraofintelligence.github.io/australiansire/
+Repository: https://github.com/auraofintelligence/australiansire
 
 Ten connected pages, full-width generated artwork, an opportunity-led travel example, a site map, previous/next navigation and a back-to-top control.
 
@@ -14,7 +17,7 @@ Page copy is in `scripts/build.py`. Run `python scripts/build.py` to rebuild the
 
 ## Status
 
-Local review build. No remote repository, domain change or public deployment has been made. The oracle is an explicitly labelled fictional interactive example, with no live data service. No reader contact details have been invented.
+Published from the public GitHub repository through GitHub Pages. The custom domain is not configured by this publication. The oracle is an explicitly labelled fictional interactive example, with no live data service. No reader contact details have been invented.
 
 ## Sources and artwork
 
@@ -22,4 +25,12 @@ The concept comes from Luke’s instructions, the supplied documents and the Aus
 
 Artwork is generated concept imagery. The writer likeness uses Luke’s supplied photographs; original photographs are not included in this repository. See `ARTWORK.md` for generated-asset provenance. The AS favicon was carried forward from the reviewed concept.
 
-The local Tiggy Bestmann partner site is linked at http://127.0.0.1:4174/. Set `TIGGY_PARTNER_URL` before building when its final public address is known.
+The Tiggy Bestmann partner site is https://auraofintelligence.github.io/tiggy-bestmann/. Set `TIGGY_PARTNER_URL` before building to use a different destination.
+
+## Publication and licence
+
+GitHub Actions builds and checks the site, then publishes only the HTML, assets and licence. Main-branch pushes update the public site.
+
+The [Strange But True Public Source Licence](LICENCE.md) allows attributed personal and non-commercial use; commercial rights remain reserved to Luke Nathan Hayes.
+
+Both character sites link to Story Forge, Loose Goose Comedy Engine and Man and Mind, with reciprocal links on those sites.
